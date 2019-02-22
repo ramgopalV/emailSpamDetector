@@ -1,0 +1,26 @@
+Run it on python 3 or above version.
+I've attached stopwords file that i've used in this assignment
+
+Naive bayes takes 6 arguments :
+1-training ham dataset path 
+2-training spam dataset path
+3-test ham dataset path
+4-test spam dataset path
+5-stopwords file 
+6-(include stopwords)-yes/no 
+path format for args 1,2,3,4:
+C://Users/ramgopal/Downloads/Spring18/ML/Assignment/2/hw2_train/train/ham/
+
+********************************************
+It takes around 2 to 3 minutes to display output for LR
+
+Logestic regression takes 9 args:
+1-training ham dataset path 
+2-training spam dataset path
+3-test ham dataset path
+4-test spam dataset path
+5-stopwords file 
+6-(include stopwords)-yes/no 
+7-no of iterations
+8-lamda(regularization parameter)
+9- eta(learning rate)
